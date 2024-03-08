@@ -1,0 +1,30 @@
+﻿// Project namespaces
+global using EducationPortal.Domain.Models.Materials;
+global using EducationPortal.Application.DTOs.Authentication;
+global using EducationPortal.Application.Interfaces.Repositories;
+global using EducationPortal.Domain.Entities;
+global using EducationPortal.Application.DTOs.Common;
+global using EducationPortal.Domain.Entities.Materials;
+global using EducationPortal.Application.DTOs.User;
+global using EducationPortal.Application.Common;
+global using EducationPortal.Application.Interfaces.Services;
+global using EducationPortal.Domain.Common;
+global using EducationPortal.Application.Common.Validation;
+
+// 3rd party directives
+global using Microsoft.IdentityModel.Tokens;
+global using System.Text;
+global using System.ComponentModel.DataAnnotations;
+global using EducationPortal.Domain.Models;
+global using System.Linq.Expressions;
+global using System.Security.Claims;
+global using AutoMapper;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Cryptography;
+global using MimeKit;
+global using MailKit.Net.Smtp;
+global using MailKit.Security;
+global using Microsoft.Extensions.Options;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;

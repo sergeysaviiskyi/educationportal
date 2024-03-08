@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7XXFb3GJWLBFUmmSV7bImo3SqORjR/q0iWNZhqwHY/I=",
+  "Source": "EducationPortal.PresentationWebAPI",
+  "BasePath": "_content/EducationPortal.PresentationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
